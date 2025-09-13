@@ -3,7 +3,7 @@
   <img align="left" src="https://my-readme-stats-nine.vercel.app/api?username=gamu-433&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamu-433" />
+  <img align="left" src="https://my-readme-stats-nine.vercel.app/api/top-langs/?username=gamu-433" />
 </a>
 <!--
 **gamu-433/gamu-433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
