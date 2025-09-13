@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gamu-433&count_private=true&show_icons=true" />
+  <img align="left" src="https://my-readme-stats-nine.vercel.app/api?username=gamu-433&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamu-433" />
